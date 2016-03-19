@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>VSlideView.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>BB9F690C1C9D1AC600E78DD7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BB9F69251C9D1AC600E78DD7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BB9F69301C9D1AC600E78DD7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
